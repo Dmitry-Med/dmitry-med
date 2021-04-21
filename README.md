@@ -1,16 +1,15 @@
-### Hi there 👋
+![Header](https://github.com/Dmitry-Med/dmitry-med/blob/main/assets/%D0%94%D0%9C.jpg)
 
-<!--
-**Dmitry-Med/dmitry-med** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я начинающий фронтэнд-разработчик.
 
-Here are some ideas to get you started:
+#### Я не волшебник, а только учусь!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages and tools
+
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E9054D)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=47C5FB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F8C52C)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=009933)
+![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-090909?style=for-the-badge =visual-studio-code =47C5FB)
+Contacts
